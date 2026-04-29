@@ -38,7 +38,7 @@
 #define SPI1_SCK_PIN            PA5
 #define SPI1_MISO_PIN   	    PA6
 #define SPI1_MOSI_PIN   	    PA7
-
+#define USE_MSP_RC_OVERRIDE
 // SPI2
 #define USE_SPI_DEVICE_2
 #define SPI2_SCK_PIN            PB13
